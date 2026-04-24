@@ -1,0 +1,6 @@
+{
+  "name": "CraveFinder",
+  "description": "Find the perfect restaurant to satisfy your specific cravings using AI and Google Search.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
