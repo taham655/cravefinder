@@ -80,7 +80,7 @@ export default function App() {
           <div>
             <h1 className="text-2xl font-bold tracking-tight text-slate-800 flex items-center gap-2 leading-none">
               <Utensils className="w-6 h-6 text-orange-500" />
-              CraveFinder
+              foodfinder
             </h1>
             <p className="text-xs text-slate-400 mt-1">Satisfy your hunger in seconds.</p>
           </div>
